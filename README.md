@@ -9,8 +9,8 @@
 
 ## Final Product
 <div>
-<img src="" alt="desktop image" width="500px">
-<img src="" alt="Detail page" width="500px">
+<img src="https://github.com/CarlSmoky/keyword_ranking/blob/main/docs/desktop.png?raw=true" alt="desktop image" width="500px">
+<img src="https://github.com/CarlSmoky/keyword_ranking/blob/main/docs/mobile.png?raw=true" alt="Detail page" width="500px">
 </div>
 
 
